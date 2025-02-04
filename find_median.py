@@ -1,3 +1,8 @@
+# Author: Jacqueline Garcia
+# GitHub username: Jgarcia2
+# Date: 02/04/2025
+# Description: Median 
+
 def find_median(numbers):
     """
     Returns the median of a list of numbers.
