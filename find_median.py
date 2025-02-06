@@ -19,7 +19,3 @@ def find_median(numbers):
     else:
         return (sorted_numbers[mid - 1] + sorted_numbers[mid]) / 2  # Average of two middle elements for even-length list
 
-# Example usage:
-some_nums = [13, 7, -3, 82, 4]
-result = find_median(some_nums)
-print(result)  # Output: 7
